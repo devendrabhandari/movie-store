@@ -1,4 +1,4 @@
-# Wordpress Interview Task
+# WordPress Interview Task
 
 Task Description:
 
